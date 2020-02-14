@@ -1,0 +1,9 @@
+3DX_CUI_Supplier:
+     CUI, Inc
+
+3DX_CUI_Description:
+     5 Vdc, 1 A, 5 W
+
+3DX_CUI_Model Number:
+     VSK-S5-5UA-T
+
